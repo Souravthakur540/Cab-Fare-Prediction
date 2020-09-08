@@ -1,1 +1,1 @@
-**<h1>Can Fare Prediction Project</h1>**
+**<h1>Car Fare Prediction Project</h1>**
